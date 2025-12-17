@@ -31,7 +31,7 @@ Enhancement suggestions are welcome! Please create an issue that includes:
 
 ### Pull Requests
 
-1. **Fork the repository** and create your branch from `master`
+1. **Fork the repository** and create your branch from the default branch
 2. **Make your changes** following the coding standards below
 3. **Test your changes** thoroughly
    - Build the tools for multiple architectures if applicable
@@ -65,8 +65,8 @@ Please refer to the [README.md](README.md) for detailed build instructions.
 
 #### Prerequisites
 
-- Python 3.x
-- CMake 3.x or higher
+- Python 3.8 or higher
+- CMake 3.18 or higher
 - Ninja build system
 - Android NDK (latest version recommended)
 - Git

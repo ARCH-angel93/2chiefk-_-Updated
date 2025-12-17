@@ -16,7 +16,7 @@ This project builds Android platform-tools and build-tools. Security updates are
 
 If you discover a security vulnerability in this build system or the generated tools, please report it by:
 
-1. **Creating a Security Advisory**: Use GitHub's [security advisory feature](https://github.com/ARCH-angel93/2chiefk-_-Updated/security/advisories/new) to privately report the issue.
+1. **Creating a Security Advisory**: Use GitHub's security advisory feature (navigate to the Security tab in the repository) to privately report the issue.
 
 2. **Email**: If you prefer, you can email the maintainer with details about the vulnerability.
 
