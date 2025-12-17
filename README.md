@@ -74,4 +74,22 @@ python build.py --help
 ```
 
  **** 
+
+## Contributing
+
+We welcome contributions to this project! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests, report issues, and contribute to the codebase.
+
+## Code of Conduct
+
+This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project maintainers.
+
+## Security
+
+If you discover a security vulnerability, please follow the responsible disclosure process outlined in our [Security Policy](SECURITY.md).
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LICENSE.txt) file for details.
+
+ **** 
  
